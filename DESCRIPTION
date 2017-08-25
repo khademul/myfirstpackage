@@ -1,0 +1,13 @@
+Package: khaque
+Type: Package
+Title: Bike Counts visualizer
+Version: 0.1.0
+Author: Khademul Haque <khademul144@gmail.com> [aut, cre]
+Maintainer: Khademul Haque <khademul144@gmail.com>
+Description: visualize bike counts crossing bridges in Portland.
+License: GPL
+Encoding: UTF-8
+LazyData: true
+Import:
+   ggplot2
+   
