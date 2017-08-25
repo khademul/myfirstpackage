@@ -8,11 +8,7 @@ Description: visualize bike counts crossing bridges in Portland.
 License: GPL
 Encoding: UTF-8
 LazyData: true
-Import:
+Imports:
    ggplot2,
-   dplyr,
-   readxl,
-   purrr,
-   tibble,
-   tidyr
+   readxl
 RoxygenNote: 6.0.1
